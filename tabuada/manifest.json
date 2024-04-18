@@ -1,0 +1,17 @@
+{
+    "name": "Tabuada",
+    "short_name": "Tabuada",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#4DBA87",
+    "icons": [
+      {
+        "src": "https://alfabetize.com/wp-content/uploads/2021/08/Tabuada-para-imprimir3.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  
+  
